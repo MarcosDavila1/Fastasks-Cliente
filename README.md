@@ -18,13 +18,12 @@
 
 ![Screenshot](fastasks-project-tasks.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Why this project?
 
-I really like the tesla page, the smooth transitions, the clean ui. It is amazing!
+Recently I take a course of 80 hours that teach me the Mern Stack. 
 
-So, I decided to make the Tesla Landing Page for improve my skills!
+I decided to make this project for improve my skills with the MERN Stack.
 
 This project is part of my personal portfolio, so, I will be happy if you can provide me any feedback about the project, code, structure or anything. Your feedback will make me a better developer!
 
@@ -38,9 +37,31 @@ It's free!
 
 ## Some Observations about this App
 
-1 - There is no functionality Links.
+1 - There is no functionality Forget Password.
 
-2 - The only option that works is the menu button, all the others buttons are just for UI matters.
+## Functionalities
+
+- Login: Login or Create a new Account
+
+- Create New Account: Form for create a new account
+
+- Home/Dashboard:
+  - New Project Input
+  - Your Projects
+  - Dark Mode
+  - Sign Out
+  - Tasks
+  - Delete Project
+
+- Projects:
+  - Create, Edit and Delete Tasks
+  - Button for Toggle Complete/Incomplete Tasks
+
+- Dark Mode:
+  - Button for choose Dark or Light theme
+
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 # Getting Started with Create React App
 
